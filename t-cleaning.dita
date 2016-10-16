@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-cleaning">
+    <title>How to Clean the Frozen Dessert Machine</title>
+    <shortdesc>The machine must be cleaned before it is used for the first time. The machine also must be cleaned after every use.</shortdesc>
+    <taskbody>
+        <prereq>
+            <p>Materials Needed</p>
+            <ul>
+                <li>Soap</li>
+                <li>Warm water</li>
+                <li>A damp cloth</li>
+                <li>A dry, clean towel</li>
+            </ul>
+        </prereq>
+        <context> 
+            <note type="warning">Do not use corrosive cleaning chemicals, put the freezer bowl in the dishwasher or submerge the motor base in water!!</note>
+        </context>
+        <steps>
+            <step>
+                <cmd>Wash the lid, freezer bowl, and mixing arm with warm water and soap (see <xref href="t-cleaning.dita#t-cleaning/fig1"/>).</cmd>
+            <info>
+                <fig id="fig1">
+                    <title>Parts of the Frozen Dessert Machine</title>
+                    <image href="machineparts.jpg"/>
+                </fig>
+            </info>
+            </step>
+            <step>
+                <cmd>Wipe the motor base (see <xref href="t-cleaning.dita#t-cleaning/fig1"/>) with a damp cloth.</cmd>
+            </step>
+            <step>
+                <cmd>Dry the machine parts with a clean towel. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

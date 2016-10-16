@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-raspberry">
+    <title>How to Make Raspberry-Mint Sorbet</title>
+    <shortdesc>Raspberry-mint sorbet makes for a great light and refreshing treat with less
+            calories and fat than ice cream. </shortdesc>
+    <taskbody>
+        <prereq>
+            <p>Materials Needed</p>
+            <ul>
+                <li>3 cups water</li>
+                    <li>1-1/2 cups granulated sugar</li>
+                    <li>1 cup chopped mint leaves</li>
+                    <li>6 cups raspberries</li>
+                    <li>Blender</li>
+            </ul>
+        </prereq>
+        <context> 
+            <p>Because the ingredients need to be refrigerated for 2 hours, it is recommended you start this recipe before your class begins.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Combine the sugar and water in a saucepan over medium- low heat, stirring until the sugar is dissolved into a syrup.</cmd>
+            </step>
+            <step>
+                <cmd>Add mint leaves (save a couple to garnish the finished product, if desired) to the syrup and let sit for 15 minutes. </cmd>
+            </step>
+            <step>
+                <cmd>Blend raspberries and the syrup in the blender until smooth. </cmd>
+            </step>
+            <step>
+                <cmd>Strain the mixture through a fine-mesh strainer.</cmd>
+            </step>
+            <step>
+                <cmd>Cover and refrigerate for 2 hours. </cmd>
+            </step>
+            <step id="pressthebutton">
+                <cmd>Press the Sorbet button and then the Start/Stop button on the Frozen Dessert Machine. </cmd>
+            </step>
+            <step>
+                <cmd>Pour the cold sorbet mixture into the Frozen Dessert Machine and let churn 50 minutes until it is a thick consistency (see <xref href="t-raspberrysorbet.dita#t-raspberry/fig1"/>).</cmd>
+            <info>
+                <fig id="fig1">
+                <title>Raspberry-Mint Sorbet Mix</title>
+                    <image href="raspberrymix.png"/>
+                </fig>
+            </info>
+            </step>
+            <step>
+                <cmd>Scoop the sorbet into a bowl, and, if desired, garnish with leftover mint
+                    leaves (see <xref href="t-raspberrysorbet.dita#t-raspberry/fig2"/>).
+                    Enjoy!</cmd>
+                <info>
+                    <fig id="fig2">
+                        <title>Raspberry-Mint Sorbet Results</title>
+                        <image href="raspberryresults.png"/>
+                    </fig>
+                </info>
+            </step>
+            <step id="cleanup">
+                <cmd>After eating, refer to <xref href="t-cleaning.dita#t-cleaning"/> to clean up. </cmd>
+            </step>
+            
+        </steps>
+    </taskbody>
+</task>

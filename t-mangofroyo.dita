@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-mangofroyo">
+    <title><b>How to Make Mango Frozen Yogurt</b></title>
+    <shortdesc>Frozen Yogurt is a healthy alternative to ice cream. Mango frozen yogurt offers a
+            sweet, fruity taste!</shortdesc>
+    <taskbody>
+        <prereq>
+            <p>Materials Needed</p>
+            <ul>
+                <li>2 ripe mangos, peeled and cubed</li>
+                <li>1/2 cup granulated sugar</li>
+                <li>2 cups plain Greek yogurt</li>
+                <li>1/2 teaspoon lime juice</li>
+                <li>Blender</li>
+            </ul>
+        </prereq>
+        <context> 
+            <p>Because the ingredients need to be refrigerated for 2 hours, it is recommended you start this recipe before your class begins.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Put all ingredients into the blender.</cmd>
+            </step>
+            <step>
+                <cmd>Blend until smooth.</cmd>
+            </step>
+            <step>
+                <cmd>Cover the mixture and refrigerate for 2 hours.</cmd>
+            </step>
+            <step id="pressthebutton">
+                <cmd>Press the Ice Cream button and then the Start/Stop button on the Frozen Dessert Machine. </cmd>
+            </step>
+            <step>
+                <cmd>Pour the cold frozen yogurt mixture into the Frozen Dessert Machine and let churn 25 minutes until it is a thick consistency (see <xref href="t-mangofroyo.dita#t-mangofroyo/fig1"/>).</cmd>
+            <info>
+                <fig id="fig1">
+                    <title>Mango Frozen Yogurt Mix</title>
+                    <image href="mangomix.png"/>
+                </fig>
+            </info>
+            </step>
+            <step>
+                <cmd>Scoop the frozen yogurt into a bowl (see <xref href="t-mangofroyo.dita#t-mangofroyo/fig2"/>), and enjoy!</cmd>
+                <info>
+                    <fig id="fig2">
+                        <title>Mango Frozen Yogurt Results</title>
+                        <image href="mangoresults.png"/>
+                    </fig>
+                </info>
+            </step>
+            <step id="cleanup">
+                <cmd>After eating, refer to <xref href="t-cleaning.dita#t-cleaning"/> to clean up.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

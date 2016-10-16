@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>How to Use the Shanks Hall Frozen Dessert Machine</title>
+ <topicref href="c-shanksicm.dita"/>
+ <topicref href="t-cleaning.dita"/>
+ <topicref href="t-freezerbowl.dita"/>
+ <topicref href="t-vanilla.dita"/>
+ <topicref href="t-mangofroyo.dita"/>
+ <topicref href="t-raspberrysorbet.dita"/>
+</map>

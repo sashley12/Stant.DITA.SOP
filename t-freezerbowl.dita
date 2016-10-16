@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-freezerbowl">
+    <title>How to Prepare the Freezer Bowl</title>
+    <shortdesc>The freezer bowl must be frozen before use in order for a frozen dessert to be made successfully. </shortdesc>
+    <taskbody>
+        <prereq>
+            <p>Materials Needed</p>
+            <ul>
+                <li>The dry, clean freezer bowl</li>
+                <li>A freezer</li>
+            </ul>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Place the dry, clean freezer bowl into the back of the freezer for at least 12 hours. </cmd>
+            </step>
+            <step>
+                <cmd>Shake the frozen freezer bowl. If you hear liquid sloshing, put the freezer bowl back into the freezer until the liquid is frozen.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

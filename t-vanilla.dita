@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-vanilla">
+    <title>How to Make Creamy Vanilla Ice Cream </title>
+    <shortdesc>Vanilla ice cream is one of the most popular flavors out there: a classic favorite! </shortdesc>
+        <taskbody>
+        <prereq>
+        <p>Materials Needed</p>
+        <ul>
+                <li>1 cup whole milk</li>
+                <li>1-1/8 cups granulated sugar</li>
+                <li>3 cups heavy whipping cream</li>
+                <li>1-1/2 tablespoons vanilla extract</li>
+                <li>(Optional) Whipped cream</li>
+                <li>(Optional) Chocolate syrup</li>
+                <li>(Optional) Rainbow sprinkles</li>
+        </ul>
+    </prereq>
+    <context>  Because the ingredients need to be refrigerated for 2 hours, it is recommended you
+            start this recipe before your class begins. </context>
+    <steps>
+        <step>
+            <cmd>Mix together the milk, sugar, and salt in a large bowl until smooth.</cmd>
+        </step>
+        <step>
+            <cmd>Add heavy cream and vanilla to the mixture and stir.</cmd>
+        </step>
+        <step>
+            <cmd> Cover the bowl and refrigerate for 2 hours.</cmd>
+        </step>
+        <step id="pressthebutton">
+            <cmd> Press the Ice Cream button and then the Start/Stop button on the Frozen Dessert Machine. </cmd>
+        </step>
+        <step id="pour">
+            <cmd>Pour the cold ice cream mixture into the Frozen Dessert Machine and let churn 20-25 minutes until it is a thick consistency (see <xref href="t-vanilla.dita#t-vanilla/fig1"/>).</cmd>
+               <info>
+                    <fig id="fig1">
+                        <title>Vanilla Ice Cream Mix</title>
+                        <image href="vanillamix.png" id="vanillaicecreammix"/>
+                    </fig>
+              </info>
+        </step>
+        <step>
+                <cmd>Scoop into a bowl and, if desired, top with whipped cream, chocolate syrup, and
+                    sprinkles (see <xref href="t-vanilla.dita#t-vanilla/fig2"/>). Enjoy!</cmd>
+                <info>
+                    <fig id="fig2">
+                        <title>Vanilla Ice Cream Final Result</title>
+                        <image href="vanillawithsprinkles.jpg"/>
+                    </fig>
+                </info>
+            </step>
+        <step id="cleanup">
+            <cmd>After eating, refer to <xref href="t-cleaning.dita#t-cleaning"/> to clean up. </cmd>
+        </step>
+    </steps>
+    </taskbody>
+</task>
